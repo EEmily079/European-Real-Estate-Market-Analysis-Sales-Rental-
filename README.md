@@ -85,17 +85,5 @@ the relative ranking of other countries changes when elevators are considered, i
 This suggests that floor-level convenience enhances property attractiveness, particularly in markets where pricing is more sensitive to property features.
 
 
-Note: These questions are only suggestions. Participants are encouraged to explore the dataset creatively and uncover insights that help investors, agencies, and buyers better understand the European property market.
-About FP20 Analytics Monthly Challenges
-FP20 Analytics Monthly Challenges are designed to help data professionals and aspiring analysts build practical analytics skills using realistic datasets and business scenarios.
-
-Each challenge focuses on a different business domain and encourages participants to develop data storytelling skills, analytical thinking, and modern dashboard design techniques. Participants from around the world join the challenges to practice their skills, learn from others, and showcase their work to the global analytics community.
-Technical Requirements
-Participants are expected to create a data visualization report or dashboard using the provided dataset.
-
-Recommended tools include Power BI, Tableau, Excel, or any modern data visualization platform. Submissions should clearly present insights derived from the dataset, demonstrate analytical reasoning, and include well-designed visualizations that allow users to explore the European real estate market.
-Key Dates
-•	Challenge Starts: 16 March
-•	Workshop Webinar: 24 March – 13:00 BST
 •	Challenge Deadline: 13 April – 23:59 BST
 •	Top 5 Webinar: 16 April – 13:00 BST
